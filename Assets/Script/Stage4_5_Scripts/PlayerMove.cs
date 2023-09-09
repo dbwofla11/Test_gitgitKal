@@ -37,9 +37,24 @@ namespace machine_chemical{
     }
 
     public void Update() {
+
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            if (SceneManager.GetActiveScene().name == "Stage4")
+                {
+                    SceneManager.LoadScene("Scenes/Stage4");
+                }
+                else
+                {
+                    SceneManager.LoadScene("Scenes/Stage5");
+                }
+            
+        }
+
+
         if (Input.GetButtonUp("Horizontal")){
-            rigid.velocity = new Vector2(rigid.velocity.normalized.x * 0.5f , rigid.velocity.y);
-            animator.SetBool("isWalking" , false);
+        rigid.velocity = new Vector2(rigid.velocity.normalized.x * 0.5f , rigid.velocity.y);
+        animator.SetBool("isWalking" , false);
         }
 
         // 방향 전환 

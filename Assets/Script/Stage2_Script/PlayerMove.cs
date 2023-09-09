@@ -40,6 +40,12 @@ namespace Stage2
 
         public void Update()
         {
+            if (Input.GetKeyDown(KeyCode.R))
+            {
+                SceneManager.LoadScene("Scenes/Stage2");
+            }
+
+
             if (Input.GetButtonUp("Horizontal"))
             {
                 rigid.velocity = new Vector2(rigid.velocity.normalized.x * 0.5f, rigid.velocity.y);

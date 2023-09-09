@@ -4,7 +4,7 @@ using System.Collections.Specialized;
 using System.Diagnostics;
 using System.IO.Pipes;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 
 namespace Stage1
 {
@@ -48,6 +48,11 @@ namespace Stage1
 
         public void Update()
         {
+            if (Input.GetKeyDown(KeyCode.R))
+            {
+                SceneManager.LoadScene("Scenes/Stage1");
+            }
+
             if (Input.GetButtonUp("Horizontal"))
             {
                 rigid.velocity = new Vector2(rigid.velocity.normalized.x * 0.5f, rigid.velocity.y);

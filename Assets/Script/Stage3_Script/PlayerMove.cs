@@ -46,7 +46,12 @@ namespace Stage3
 
         void Update()
         {
-            
+            if (Input.GetKeyDown(KeyCode.R))
+            {
+                SceneManager.LoadScene("Scenes/Stage3");
+            }
+
+
             if (Input.GetButtonUp("Horizontal"))
             {
                 rigid.velocity = new Vector2(rigid.velocity.normalized.x * 0.5f, rigid.velocity.y);

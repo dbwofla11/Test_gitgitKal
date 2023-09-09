@@ -42,11 +42,18 @@ public class AudioPlay : MonoBehaviour
     public void SceenChange()
     {
         bool isEnding = SceneManager.GetActiveScene().name == "END";
+        bool isStart = SceneManager.GetActiveScene().name == "intro6";
         if (isEnding)
         {
             Debug.Log(SceneManager.GetActiveScene().name + isEnding);
             Debug.Log("¿£µùµµÂø");
             Destroy(this.gameObject);
         }
+        if (isStart)
+        {
+            Destroy(this.gameObject);
+        }
     }
+
+
 }
