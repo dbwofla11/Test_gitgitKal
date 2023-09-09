@@ -10,13 +10,10 @@
 - 팀(멤버): 이런 게 게임?? (팀장: 유재림, 고승민, 이도엽, 이승미)
 
 ## 게임설명
-![시작화면 ](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f6e02b10-689d-46d0-842f-c73814fa5717/pixil-frame-0_(1).png)
+| 나중에 | 이미지 넣자 |
+| --- | --- |
+|시작화면 |설정 화면|
 
-시작화면 
-
-![설정 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f6e02b10-689d-46d0-842f-c73814fa5717/pixil-frame-0_(1).png)
-
-설정 화면
 
  친숙한 학교의 괴담을 배경으로 하여 평소 학교 생활 중 느끼는 탈출 욕구(?)를 해소 또는 해방감을 느낄 수 있는 게임을 만들고자 “공대 탈출 일지”를 개발하게 되었습니다.
 ## 게임플레이방식
