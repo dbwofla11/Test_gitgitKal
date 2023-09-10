@@ -71,7 +71,7 @@
 
 - 몬스터 : 눈
     
-    ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2013.png)
+    ![Untitled](./Images/eye.png)
     
 
 
@@ -82,22 +82,22 @@
 - 클리어 조건:
     - 열쇠 획득 후 잠금 해제
         
-        ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2022.png)
+   /     ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2022.png)
         
     - 맵 내 코인 ??이상 획득 후 finish 도착
         
-        ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2023.png)
+  /      ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2023.png)
 
  ![s2](./Images/s2.png)
         
 - 몬스터 : monster
     
-    ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2024.png)
+    ![Untitled](./Images/monster.png)
     
 
 - secret event: 공개하지 않는 함정이 존재 합니다!
     
-    ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2026.png)
+    ![Untitled](./Images/secretBox.png)
     
 
 ---
@@ -108,13 +108,13 @@
  ![s3](./Images/s3.png)
 - 몬스터 : 유령 & monster
 
-![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2027.png)
+![Untitled](./Images/goast.png)
 
-![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2024.png)
+ ![Untitled](./Images/monster.png)
 
 - secret event: 공개하지 않는 함정이 존재 합니다!
     
-    ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2026.png)
+   ![Untitled](./Images/secretBox.png)
     
 
 ---
@@ -125,11 +125,11 @@
  ![s4](./Images/s4.png)
 - 몬스터 : machine
     
-    ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2029.png)
+    ![Untitled](./Images/meka.png)
     
 - secret event: 공개하지 않는 함정이 존재 합니다!
     
-    ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2026.png)
+    ![Untitled](./Images/secretBox.png)
     
     ---
     
@@ -139,14 +139,14 @@
    ![s5](./Images/s5.png)
     - 몬스터 : 슬라임
         
-        ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2031.png)
+        ![Untitled](./Images/slime.png)
         
     - 아이템: 물약(hp를 1회복 시켜줍니다.)
         
-        ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2032.png)
+        ![Untitled](./Images/potion.png)
         
     - secret event: 공개하지 않는 함정이 존재 합니다!
         
-        ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2026.png)
+       ![Untitled](./Images/secretBox.png)
         
 
