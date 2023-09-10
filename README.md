@@ -43,24 +43,23 @@
 
 - 더블 점프: 획득한 아이템의 개수 만큼 더블 점프 가능
     
-    ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%206.png)
+    ![Untitled](./Images/doubleJump.png)
     
 
 ### 함정 (공통)
 
 - Spike: hp 1감소
     
-    ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%207.png)
+    ![Untitled](./Images/spike.png)
     
 
 ### 도착 (공통)
 
 - finish: 다음 스테이지 이동
     
-    ![finish](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%208.png)
+    ![finish](./Images/finish.png)
     
-    finish
-    
+   
 
 ---
 # 스테이지 구성 
@@ -68,6 +67,8 @@
 ### 스테이지 1 (지하감옥)
 
 - 클리어 조건: 맵 내에 있는 유령 4개 획득한 후 finish 도착
+   ![s1](./Images/s1.png)
+
 
 ![stage01. 유령 1](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%209.png)
 
@@ -103,6 +104,8 @@ stage01. 유령 4
     - 맵 내 코인 ??이상 획득 후 finish 도착
         
         ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2023.png)
+
+ ![s2](./Images/s2.png)
         
 - 몬스터 : monster
     
@@ -123,6 +126,7 @@ stage01. 유령 4
 ### 스테이지 3 (전기실)
 
 - 클리어 조건:  finish 도착
+ ![s3](./Images/s3.png)
 - 몬스터 : 유령 & monster
 
 ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2027.png)
@@ -143,6 +147,7 @@ stage01. 유령 4
 ### 스테이지 4 (기계실)
 
 - 클리어 조건:  스코어 600이상으로 finish 도착
+ ![s4](./Images/s4.png)
 - 몬스터 : machine
     
     ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2029.png)
@@ -160,6 +165,7 @@ stage01. 유령 4
     ### 스테이지 5 (실험실)
     
     - 클리어 조건:  스코어 600이상으로 finish 도착
+   ![s5](./Images/s5.png)
     - 몬스터 : 슬라임
         
         ![Untitled](%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4%20!%20(%2009%2009%20)%205b2b2a015f66458fbe947cedf843b6ef/Untitled%2031.png)
