@@ -5,17 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class AudioLobby : MonoBehaviour
 {
-    private AudioSource audio;
+    private AudioSource Audio;
     private GameObject[] musics;
 
-    float timer;
-    int waitingTime;
-
-    void Start()
-    {
-        timer = 0.0f;
-        waitingTime = 2;
-    }
 
     private void Update()
     {
@@ -34,18 +26,18 @@ public class AudioLobby : MonoBehaviour
         }
 
         DontDestroyOnLoad(transform.gameObject);
-        audio = GetComponent<AudioSource>();
+        Audio = GetComponent<AudioSource>();
     }
 
     public void PlayMusic()
     {
-        if (audio.isPlaying) return;
-        audio.Play();
+        if (Audio.isPlaying) return;
+        Audio.Play();
     }
 
     public void StopMusic()
     {
-        audio.Stop();
+        Audio.Stop();
     }
 
     public void SceenChange()

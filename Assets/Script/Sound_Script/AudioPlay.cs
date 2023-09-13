@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class AudioPlay : MonoBehaviour
 {
-    private AudioSource audio;
+    private AudioSource Audio;
     private GameObject[] musics;
 
 
@@ -20,7 +20,7 @@ public class AudioPlay : MonoBehaviour
         }
 
         DontDestroyOnLoad(transform.gameObject);
-        audio = GetComponent<AudioSource>();
+        Audio = GetComponent<AudioSource>();
     }
 
     private void Update()
@@ -30,13 +30,13 @@ public class AudioPlay : MonoBehaviour
 
     public void PlayMusic()
     {
-        if (audio.isPlaying) return;
-        audio.Play();
+        if (Audio.isPlaying) return;
+        Audio.Play();
     }
 
     public void StopMusic()
     {
-        audio.Stop();
+        Audio.Stop();
     }
 
     public void SceenChange()
